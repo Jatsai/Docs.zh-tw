@@ -27,6 +27,8 @@ ms.lasthandoff: 11/10/2017
 2. 建立新的 .NET Core 專案。
 
    在 macOS 和 Linux 上，開啟終端機視窗。 在 Windows 上，開啟命令提示字元。
+   
+   鍵入下列的命令指令:
 
     ```terminal
     dotnet new razor -o aspnetcoreapp
